@@ -80,9 +80,9 @@
            let stop = getValue(idStopWords);
 
            text = text.replace(/\n/gu, ' ');
-           text = text.replace(/[^ \p{L}\d]/gu, '');
+           text = text.replace(/[^ \p{L}]/gu, '');
            text = text.toLowerCase();
-           stop = stop.replace(/[^,\p{L}\d]/gu, '');
+           stop = stop.replace(/[^,\p{L}]/gu, '');
            stop = stop.toLowerCase();
            
            let words = text.split(" ");
