@@ -24,6 +24,7 @@ window.onload = function() {
         "hack"        : "Hack and Rescue",
         "room"        : "Home Room Runner",
         "vice"        : "Vice City Crime: Theft Auto",
+        "spc"         : "Blocky Dude Theft Life"
       };
       
       const params = getQueryParams(window.location.search);
