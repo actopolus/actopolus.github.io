@@ -25,7 +25,7 @@ window.onload = function() {
         "room"        : "Home Room Runner",
         "vice"        : "Vice City Crime: Theft Auto",
         "spc"         : "Blocky Dude Theft Life",
-        "love"        : "Love Tester: True Love Test",
+        "love"        : "Love Tester: True Love Test"
       };
       
       const params = getQueryParams(window.location.search);
