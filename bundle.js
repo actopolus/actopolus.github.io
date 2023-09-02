@@ -24,7 +24,7 @@ window.onload = function() {
         "hack"        : "Hack and Rescue",
         "room"        : "Home Room Runner",
         "vice"        : "Vice City Crime: Theft Auto",
-        "spc"         : "Blocky Dude Theft Life",
+        "spc"         : "Dude Wars: Pixel FPS Shooter",
         "love"        : "Love Tester: True Love Test",
       };
       
