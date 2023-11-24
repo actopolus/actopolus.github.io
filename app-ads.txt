@@ -1,9 +1,3 @@
-google.com, pub-5705267570304384, DIRECT, f08c47fec0942fa0
-facebook.com, 302815688694851, RESELLER, c3e20eee3f780d68
-facebook.com, 2572634776200163, RESELLER, c3e20eee3f780d68
-facebook.com, 540765204381268, RESELLER, c3e20eee3f780d68
-facebook.com, 552048789946768, RESELLER, c3e20eee3f780d68
-facebook.com, 1692490757853148, RESELLER, c3e20eee3f780d68
 # CAS.ai Updated Nov 23, 2023, support@cleveradssolutions.com
 #=== CASExchange Nov 23, 2023
 cas.ai, 11, DIRECT
@@ -1758,3 +1752,9 @@ eskimi.com, 2020000041, RESELLER
 opera.com, pub4261820774272, RESELLER, 55a0c5fd61378de3
 vidoomy.com, 4433873, RESELLER
 xapads.com, 194000, RESELLER
+google.com, pub-5705267570304384, DIRECT, f08c47fec0942fa0
+facebook.com, 302815688694851, RESELLER, c3e20eee3f780d68
+facebook.com, 2572634776200163, RESELLER, c3e20eee3f780d68
+facebook.com, 540765204381268, RESELLER, c3e20eee3f780d68
+facebook.com, 552048789946768, RESELLER, c3e20eee3f780d68
+facebook.com, 1692490757853148, RESELLER, c3e20eee3f780d68
