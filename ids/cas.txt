@@ -1,4 +1,3 @@
-# CAS.ai Updated Nov 23, 2023, support@cleveradssolutions.com
 #=== CASExchange Nov 23, 2023
 cas.ai, 11, DIRECT
 152media.info, 152m50, RESELLER
