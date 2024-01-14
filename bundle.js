@@ -26,6 +26,7 @@ window.onload = function() {
         "vice"        : "Vice City Crime: Theft Auto",
         "spc"         : "Dude Wars: Pixel FPS Shooter",
         "love"        : "Love Tester: True Love Test",
+        "lc"          : "Lethal Corp: Space Horror Game",
       };
       
       const params = getQueryParams(window.location.search);
